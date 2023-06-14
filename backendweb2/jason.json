@@ -1,0 +1,8 @@
+{
+    "player": "João",
+    "score": 100,
+    "level": 5,
+    "time_played": 120,
+    "items_collected": 10,
+    "game_mode": "multiplayer"
+}
